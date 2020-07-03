@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const HdUiPackages = fs.readdirSync(path.resolve(__dirname, 'packages/@hn-ui'))
+const HnUiPackages = fs.readdirSync(path.resolve(__dirname, 'packages/@hn-ui'))
 
 module.exports = {
   extends: [
@@ -15,7 +15,7 @@ module.exports = {
         'docs',
         'hn-ui',
         'examples',
-        ...HdUiPackages
+        ...HnUiPackages
       ].map(name => `$${name}`).concat('release')
     ],
     'subject-case': [0, 'never', ['sentence-case', 'start-case', 'pascal-case', 'upper-case']],

@@ -1,6 +1,6 @@
 {
   "name": "@hn-ui/tools",
-  "version": "0.0.2",
+  "version": "0.0.0",
   "description": "tools for HD UI",
   "keywords": [
     "hn-ui",
@@ -25,7 +25,7 @@
     "test": "echo \"Info: test finished\" && exit 0"
   },
   "dependencies": {
-    "@hn-ui/shared-utils": "^0.0.2"
+    "@hn-ui/shared-utils": "^0.0.0"
   },
   "devDependencies": {
     "chalk": "^3.0.0",
