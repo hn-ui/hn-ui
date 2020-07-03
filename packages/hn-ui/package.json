@@ -1,6 +1,6 @@
 {
   "name": "@hn-ui/hn-ui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Component Library for Vue.js.",
   "keywords": [
     "vue",
@@ -37,7 +37,7 @@
     "> 2%"
   ],
   "devDependencies": {
-    "@hn-ui/tools": "^0.0.1",
+    "@hn-ui/tools": "^0.0.2",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",

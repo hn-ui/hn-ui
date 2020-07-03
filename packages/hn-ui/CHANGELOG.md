@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.3](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.2...@hn-ui/hn-ui@0.0.3) (2020-07-03)
+
+
+### Bug Fixes
+
+* bug fix ([5439599](https://github.com/hn-ui/hn-ui/commit/5439599c97e172c4d09b9ddad20ad1327e468df4))
+
+
+
+
+
 ## 0.0.2 (2020-07-03)
 
 

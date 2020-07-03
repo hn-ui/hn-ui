@@ -1,6 +1,6 @@
 {
   "name": "@hn-ui/cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A `cli` tool for quickly generating HN UI projects",
   "keywords": [
     "hn-ui",
@@ -24,7 +24,7 @@
     "test": "echo \"Info: test finished\" && exit 0"
   },
   "dependencies": {
-    "@hn-ui/shared-utils": "^0.0.1",
+    "@hn-ui/shared-utils": "^0.0.2",
     "async": "^2.4.0",
     "commander": "^2.20.0",
     "consolidate": "^0.14.0",
