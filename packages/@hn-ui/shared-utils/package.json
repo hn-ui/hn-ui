@@ -1,0 +1,35 @@
+{
+  "name": "@hn-ui/shared-utils",
+  "version": "0.0.2",
+  "description": "shared-utils for HD UI",
+  "keywords": [
+    "hn-ui",
+    "hd",
+    "ui",
+    "shared-utils"
+  ],
+  "homepage": "https://hn-ui.com",
+  "bugs": "https://github.com/hn-ui/hn-ui/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hn-ui/hn-ui.git",
+    "directory": "packages/@hn-ui/shared-utils"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Info: test finished\" && exit 0"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "execa": "^1.0.0",
+    "lru-cache": "^5.1.1",
+    "semver": "^6.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    "Ying Wang <upcwangying@gmail.com> (https://github.com/upcwangying)"
+  ]
+}

@@ -25,9 +25,9 @@ module.exports = ctx => ({
     ['meta', { name: 'msapplication-TileImage', content: '/icons/msapplication-icon-144x144.png' }],
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }],
   ],
-  theme: '@hd-ui/hd-ui',
+  theme: '@hn-ui/hn-ui',
   themeConfig: {
-    repo: 'hd-ui/hd-ui',
+    repo: 'hn-ui/hn-ui',
     editLinks: true,
     docsDir: 'packages/docs/docs',
     smoothScroll: true,

@@ -6,15 +6,15 @@
   "keywords": [
     "documentation",
     "docs",
-    "hd-ui"
+    "hn-ui"
   ],
-  "homepage": "https://github.com/hd-ui/hd-ui#readme",
+  "homepage": "https://github.com/hn-ui/hn-ui#readme",
   "bugs": {
-    "url": "https://github.com/hd-ui/hd-ui/issues"
+    "url": "https://github.com/hn-ui/hn-ui/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hd-ui/hd-ui.git",
+    "url": "git+https://github.com/hn-ui/hn-ui.git",
     "directory": "packages/docs"
   },
   "license": "MIT",
@@ -29,7 +29,7 @@
     "view-info": "vuepress view-info docs --temp .temp"
   },
   "devDependencies": {
-    "@hd-ui/vuepress-theme-hd-ui": "^0.0.2",
+    "@hn-ui/vuepress-theme-hn-ui": "^0.0.2",
     "@textlint-rule/textlint-rule-no-unmatched-pair": "1.0.7",
     "@vuepress/plugin-back-to-top": "1.1.0",
     "@vuepress/plugin-medium-zoom": "1.1.0",

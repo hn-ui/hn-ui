@@ -66,6 +66,6 @@ module.exports = [
   },
   {
     text: 'Example',
-    link: 'https://examples.hd-ui.com/',
+    link: 'https://examples.hn-ui.com/',
   },
 ]

@@ -1,38 +1,37 @@
 # HD UI
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/676f920d-6051-496d-8264-27e0e97ff7da/deploy-status)](https://app.netlify.com/sites/hd-ui/deploys)
-[![Codecov](https://img.shields.io/codecov/c/gh/hd-ui/hd-ui)](https://codecov.io/gh/hd-ui/hd-ui)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fhd-ui.com)
-![Travis (.org)](https://img.shields.io/travis/hd-ui/hd-ui)
-![GitHub](https://img.shields.io/github/license/hd-ui/hd-ui)
-![GitHub contributors](https://img.shields.io/github/contributors/hd-ui/hd-ui)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/676f920d-6051-496d-8264-27e0e97ff7da/deploy-status)](https://app.netlify.com/sites/hn-ui/deploys)
+[![Codecov](https://img.shields.io/codecov/c/gh/hn-ui/hn-ui)](https://codecov.io/gh/hn-ui/hn-ui)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fhn-ui.com)
+![Travis (.org)](https://img.shields.io/travis/hn-ui/hn-ui)
+![GitHub](https://img.shields.io/github/license/hn-ui/hn-ui)
+![GitHub contributors](https://img.shields.io/github/contributors/hn-ui/hn-ui)
 
 > A Component Library for Vue.js & React.js.
 
 ## Issues
 
 Please file any issues, bugs, or feature requests in the [main
-repo](https://github.com/hd-ui/hd-ui/issues/new).
+repo](https://github.com/hn-ui/hn-ui/issues/new).
 
 ## Contributing
 
 If you wish to contribute a change to any of the existing plugins in this repo,
-please review our [contribution guide](https://github.com/hd-ui/hd-ui/blob/master/.github/CONTRIBUTING.md),
-and send a [pull request](https://github.com/hd-ui/hd-ui/pulls).
+please review our [contribution guide](https://github.com/hn-ui/hn-ui/blob/master/.github/CONTRIBUTING.md),
+and send a [pull request](https://github.com/hn-ui/hn-ui/pulls).
 
 ## Packages
 These are the available packages in this repository.
 
 | Package | Npm |
 |--------|-----|
-| [@hd-ui/cli](./packages/@hd-ui/cli) | [![Npm](https://img.shields.io/npm/v/@hd-ui/cli)](https://www.npmjs.com/package/@hd-ui/cli) |
-| [@hd-ui/eslint-config-hd-ui](./packages/@hd-ui/eslint-config-hd-ui) | [![Npm](https://img.shields.io/npm/v/@hd-ui/eslint-config-hd-ui)](https://www.npmjs.com/package/@hd-ui/eslint-config-hd-ui) |
-| [@hd-ui/eslint-plugin-hd-ui](./packages/@hd-ui/eslint-plugin-hd-ui) | [![Npm](https://img.shields.io/npm/v/@hd-ui/eslint-plugin-hd-ui)](https://www.npmjs.com/package/@hd-ui/eslint-plugin-hd-ui) |
-| [@hd-ui/vuepress-theme-hd-ui](./packages/@hd-ui/vuepress-theme-hd-ui) | [![Npm](https://img.shields.io/npm/v/@hd-ui/vuepress-theme-hd-ui)](https://www.npmjs.com/package/@hd-ui/vuepress-theme-hd-ui) |
-| [@hd-ui/shared-utils](./packages/@hd-ui/shared-utils) | [![Npm](https://img.shields.io/npm/v/@hd-ui/shared-utils)](https://www.npmjs.com/package/@hd-ui/shared-utils) |
-| [@hd-ui/tools](./packages/@hd-ui/tools) | [![Npm](https://img.shields.io/npm/v/@hd-ui/tools)](https://www.npmjs.com/package/@hd-ui/tools) |
-| [hd-ui](./packages/hd-ui) | [![Npm](https://img.shields.io/npm/v/hd-ui)](https://www.npmjs.com/package/hd-ui) |
-| [hd-ui-react](./packages/hd-ui-react) | [![Npm](https://img.shields.io/npm/v/hd-ui-react)](https://www.npmjs.com/package/hd-ui-react) |
+| [@hn-ui/cli](./packages/@hn-ui/cli) | [![Npm](https://img.shields.io/npm/v/@hn-ui/cli)](https://www.npmjs.com/package/@hn-ui/cli) |
+| [@hn-ui/eslint-config-hn-ui](./packages/@hn-ui/eslint-config-hn-ui) | [![Npm](https://img.shields.io/npm/v/@hn-ui/eslint-config-hn-ui)](https://www.npmjs.com/package/@hn-ui/eslint-config-hn-ui) |
+| [@hn-ui/eslint-plugin-hn-ui](./packages/@hn-ui/eslint-plugin-hn-ui) | [![Npm](https://img.shields.io/npm/v/@hn-ui/eslint-plugin-hn-ui)](https://www.npmjs.com/package/@hn-ui/eslint-plugin-hn-ui) |
+| [@hn-ui/vuepress-theme-hn-ui](./packages/@hn-ui/vuepress-theme-hn-ui) | [![Npm](https://img.shields.io/npm/v/@hn-ui/vuepress-theme-hn-ui)](https://www.npmjs.com/package/@hn-ui/vuepress-theme-hn-ui) |
+| [@hn-ui/shared-utils](./packages/@hn-ui/shared-utils) | [![Npm](https://img.shields.io/npm/v/@hn-ui/shared-utils)](https://www.npmjs.com/package/@hn-ui/shared-utils) |
+| [@hn-ui/tools](./packages/@hn-ui/tools) | [![Npm](https://img.shields.io/npm/v/@hn-ui/tools)](https://www.npmjs.com/package/@hn-ui/tools) |
+| [hn-ui](./packages/hn-ui) | [![Npm](https://img.shields.io/npm/v/hnui)](https://www.npmjs.com/package/hnui) |
 
 ## Contributors
 

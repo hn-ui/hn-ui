@@ -1,0 +1,32 @@
+{
+  "name": "@hn-ui/eslint-plugin-hn-ui",
+  "version": "0.0.4",
+  "description": "A plugin of ESLint, used by HD UI.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin",
+    "plugin",
+    "hn-ui",
+    "hd",
+    "ui"
+  ],
+  "homepage": "https://hn-ui.com",
+  "bugs": "https://github.com/hn-ui/hn-ui/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hn-ui/hn-ui.git",
+    "directory": "packages/@hn-ui/eslint-plugin-hn-ui"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Info: test finished\" && exit 0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    "Ying Wang <upcwangying@126.com> (https://github.com/upcwangying)"
+  ]
+}

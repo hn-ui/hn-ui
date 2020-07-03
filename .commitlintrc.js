@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 
-const HdUiPackages = fs.readdirSync(path.resolve(__dirname, 'packages/@hd-ui'))
+const HdUiPackages = fs.readdirSync(path.resolve(__dirname, 'packages/@hn-ui'))
 
 module.exports = {
   extends: [
@@ -13,8 +13,7 @@ module.exports = {
       'always',
       [
         'docs',
-        'hd-ui',
-        'hd-ui-react',
+        'hn-ui',
         'examples',
         ...HdUiPackages
       ].map(name => `$${name}`).concat('release')
