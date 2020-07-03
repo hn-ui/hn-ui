@@ -31,7 +31,7 @@ These are the available packages in this repository.
 | [@hn-ui/vuepress-theme-hn-ui](./packages/@hn-ui/vuepress-theme-hn-ui) | [![Npm](https://img.shields.io/npm/v/@hn-ui/vuepress-theme-hn-ui)](https://www.npmjs.com/package/@hn-ui/vuepress-theme-hn-ui) |
 | [@hn-ui/shared-utils](./packages/@hn-ui/shared-utils) | [![Npm](https://img.shields.io/npm/v/@hn-ui/shared-utils)](https://www.npmjs.com/package/@hn-ui/shared-utils) |
 | [@hn-ui/tools](./packages/@hn-ui/tools) | [![Npm](https://img.shields.io/npm/v/@hn-ui/tools)](https://www.npmjs.com/package/@hn-ui/tools) |
-| [hn-ui](./packages/hn-ui) | [![Npm](https://img.shields.io/npm/v/hnui)](https://www.npmjs.com/package/hnui) |
+| [hn-ui](./packages/hn-ui) | [![Npm](https://img.shields.io/npm/v/@hn-ui/hn-ui)](https://www.npmjs.com/package/@hn-ui/hn-ui) |
 
 ## Contributors
 

@@ -1,5 +1,5 @@
 {
-  "name": "hnui",
+  "name": "@hn-ui/hn-ui",
   "version": "0.0.1",
   "description": "A Component Library for Vue.js.",
   "keywords": [
@@ -37,7 +37,7 @@
     "> 2%"
   ],
   "devDependencies": {
-    "@hn-ui/tools": "^0.0.2",
+    "@hn-ui/tools": "^0.0.1",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
