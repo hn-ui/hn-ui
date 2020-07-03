@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <hello title="hello hn ui ts" />
-    <i class="hn-ui-icon-code"></i>
+    <i class="hn-ui-icon-help"></i>
   </div>
 </template>
 

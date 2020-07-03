@@ -750,6 +750,11 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
+"@hn-ui/hn-ui@0.0.3":
+  version "0.0.3"
+  resolved "https://registry.npm.taobao.org/@hn-ui/hn-ui/download/@hn-ui/hn-ui-0.0.3.tgz#1dda6dcdfc73d2c34e13bff2f70e9c633e31c3fa"
+  integrity sha1-Hdptzfxz0sNOE7/y9w6cYz4xw/o=
+
 "@intervolga/optimize-cssnano-plugin@^1.0.5":
   version "1.0.6"
   resolved "https://registry.npm.taobao.org/@intervolga/optimize-cssnano-plugin/download/@intervolga/optimize-cssnano-plugin-1.0.6.tgz#be7c7846128b88f6a9b1d1261a0ad06eb5c0fdf8"
@@ -4733,11 +4738,6 @@ hash.js@^1.0.0, hash.js@^1.0.3:
   dependencies:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
-
-hn-ui@0.0.4:
-  version "0.0.4"
-  resolved "https://registry.npm.taobao.org/hn-ui/download/hn-ui-0.0.4.tgz#89b04fe9d149aec007c3b1cd08ad3448bcc01ef7"
-  integrity sha1-ibBP6dFJrsAHw7HNCK00SLzAHvc=
 
 he@1.2.x, he@^1.1.0:
   version "1.2.0"
