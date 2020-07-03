@@ -1,7 +1,7 @@
 {
   "name": "@hn-ui/cli",
   "version": "0.0.1",
-  "description": "A `cli` tool for quickly generating HD UI projects",
+  "description": "A `cli` tool for quickly generating HN UI projects",
   "keywords": [
     "hn-ui",
     "hd",

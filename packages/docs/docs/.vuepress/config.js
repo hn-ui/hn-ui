@@ -5,12 +5,12 @@ module.exports = ctx => ({
   locales: {
     '/': {
       lang: 'en-US',
-      title: 'HD UI',
+      title: 'HN UI',
       description: 'A Component Library for Vue.js based on Element.',
     },
     '/zh/': {
       lang: 'zh-CN',
-      title: 'HD UI',
+      title: 'HN UI',
       description: '一个基于Element的Vue组件库.',
     },
   },

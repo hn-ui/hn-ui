@@ -17,7 +17,7 @@ describe('Hello', () => {
     )
     expect(vm.$el.classList.contains('hn-ui-hello__title')).toBe(true)
     setTimeout(() => {
-      expect(vm.$el.querySelector('.hn-ui-hello__title').textContent).toBe('hello hd ui')
+      expect(vm.$el.querySelector('.hn-ui-hello__title').textContent).toBe('hello hn ui')
     }, 300)
   })
 })

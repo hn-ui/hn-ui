@@ -1,11 +1,11 @@
 {
   "vue": {
     "hn-ui-example": {
-      "title": "HD UI Example",
+      "title": "HN UI Example",
       "url": "../packages/hn-ui/examples/hn-ui-example"
     },
     "hn-ui-example-ts": {
-      "title": "HD UI Example Ts",
+      "title": "HN UI Example Ts",
       "url": "../packages/hn-ui/examples/hn-ui-example-ts"
     }
   },

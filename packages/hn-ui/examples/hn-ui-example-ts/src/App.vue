@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <hello title="hello hd ui ts" />
+    <hello title="hello hn ui ts" />
     <i class="hn-ui-icon-code"></i>
   </div>
 </template>

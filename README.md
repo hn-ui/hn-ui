@@ -1,4 +1,4 @@
-# HD UI
+# HN UI
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/676f920d-6051-496d-8264-27e0e97ff7da/deploy-status)](https://app.netlify.com/sites/hn-ui/deploys)
 [![Codecov](https://img.shields.io/codecov/c/gh/hn-ui/hn-ui)](https://codecov.io/gh/hn-ui/hn-ui)
@@ -7,7 +7,7 @@
 ![GitHub](https://img.shields.io/github/license/hn-ui/hn-ui)
 ![GitHub contributors](https://img.shields.io/github/contributors/hn-ui/hn-ui)
 
-> A Component Library for Vue.js & React.js.
+> A Component Library for Vue.js.
 
 ## Issues
 

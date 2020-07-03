@@ -1,7 +1,7 @@
 {
   "name": "@hn-ui/eslint-plugin-hn-ui",
   "version": "0.0.1",
-  "description": "A plugin of ESLint, used by HD UI.",
+  "description": "A plugin of ESLint, used by HN UI.",
   "keywords": [
     "eslint",
     "eslintplugin",

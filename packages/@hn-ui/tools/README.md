@@ -2,7 +2,7 @@
 
 [![Npm](https://img.shields.io/npm/v/@hn-ui/tools)](https://www.npmjs.com/package/@hn-ui/tools)
 
-tools for [HD UI](https://hn-ui.com) projects
+tools for [HN UI](https://hn-ui.com) projects
 
 ```npm
 hn-ui-tools build file

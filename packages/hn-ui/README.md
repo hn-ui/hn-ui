@@ -1,4 +1,4 @@
-# HD UI
+# HN UI
 
 [![Npm](https://img.shields.io/npm/v/hn-ui)](https://www.npmjs.com/package/hn-ui)
 

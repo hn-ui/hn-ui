@@ -2,7 +2,7 @@
 
 [![Npm](https://img.shields.io/npm/v/@hn-ui/shared-utils)](https://www.npmjs.com/package/@hn-ui/shared-utils)
 
-shared-utils for [HD UI](https://hn-ui.com) projects
+shared-utils for [HN UI](https://hn-ui.com) projects
 
 ## License
 
