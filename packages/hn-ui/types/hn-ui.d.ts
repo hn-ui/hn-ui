@@ -1,7 +1,7 @@
 import Vue from 'vue'
-import { HdUIComponent } from './component'
+import { HnUIComponent } from './component'
 
-import { HdHello } from './hello'
+import { HnHello } from './hello'
 
 export interface InstallationOptions {
   locale: any
@@ -20,9 +20,9 @@ export const version: string
 export function install(vue: typeof Vue, options: InstallationOptions): void
 
 /** ElementUI component common definition */
-export type Component = HdUIComponent
+export type Component = HnUIComponent
 
 // TS cannot merge imported class with namespace, so declare subclasses instead
 
 /** Hello Component */
-export class Hello extends HdHello {}
+export class Hello extends HnHello {}

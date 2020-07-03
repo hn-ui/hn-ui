@@ -1,7 +1,7 @@
-import { HdUIComponent } from './component'
+import { HnUIComponent } from './component'
 
 /** hello Component */
-export declare class HdHello extends HdUIComponent {
+export declare class HnHello extends HnUIComponent {
   /** Title */
   title: string
 }

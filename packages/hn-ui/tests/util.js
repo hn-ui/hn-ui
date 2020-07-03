@@ -1,7 +1,7 @@
 const Vue = require('vue')
-const HdUI = require('../src/index.js')
+const HnUI = require('../src/index.js')
 
-Vue.use(HdUI)
+Vue.use(HnUI)
 
 let id = 0
 

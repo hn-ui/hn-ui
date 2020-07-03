@@ -1,4 +1,4 @@
 export * from './hn-ui'
 
-import * as HdUI from './hn-ui'
-export default HdUI
+import * as HnUi from './hn-ui'
+export default HnUi
