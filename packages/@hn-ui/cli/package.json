@@ -4,7 +4,7 @@
   "description": "A `cli` tool for quickly generating HN UI projects",
   "keywords": [
     "hn-ui",
-    "hd",
+    "hn",
     "ui",
     "cli"
   ],

@@ -14,7 +14,7 @@
   $selector: &;
   $currentSelector: "";
   @each $unit in $element {
-    $currentSelector: #{$currentSelector + "." + $B + $hd-separator + $unit + ","};
+    $currentSelector: #{$currentSelector + "." + $B + $hn-separator + $unit + ","};
   }
 
   @if hitAllSpecialNestRule($selector) {

@@ -1,6 +1,6 @@
 # HN UI
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/676f920d-6051-496d-8264-27e0e97ff7da/deploy-status)](https://app.netlify.com/sites/hn-ui/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0a973f02-f569-47b5-a033-5c0f348ee269/deploy-status)](https://app.netlify.com/sites/hn-ui/deploys)
 [![Codecov](https://img.shields.io/codecov/c/gh/hn-ui/hn-ui)](https://codecov.io/gh/hn-ui/hn-ui)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhn-ui.com)
 ![Travis (.org)](https://img.shields.io/travis/hn-ui/hn-ui)
