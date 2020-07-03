@@ -16,9 +16,8 @@
 <script type="text/javascript">
   const $list = $("#examples");
 
-  $.get("https://examples.hn-ui.com/examples.json", function(data) {
-    console.log(data)
-    const examples = JSON.parse(data);
+  $.get("https://examples.hn-ui.com/examples.json", function(examples) {
+    console.log(examples)
     const allExamples = {}
     Object.keys(examples).forEach(function(key) {
       const exampleByLang = examples[key]
