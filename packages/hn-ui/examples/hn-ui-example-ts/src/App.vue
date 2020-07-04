@@ -1,7 +1,19 @@
 <template>
   <div id="app">
     <hello title="hello hn ui ts" />
-    <i class="hn-ui-icon-help"></i>
+    <hn-layout>
+      <hn-icon-group>
+        <hn-icon name="hn-ui-icon-query" />
+        <hn-icon name="hn-ui-icon-create" />
+        <hn-icon name="hn-ui-icon-edit" />
+      </hn-icon-group>
+
+      <hn-icon-group>
+        <hn-icon name="hn-ui-icon-help" />
+        <hn-icon name="hn-ui-icon-print" />
+        <hn-icon name="hn-ui-icon-more" />
+      </hn-icon-group>
+    </hn-layout>
   </div>
 </template>
 
