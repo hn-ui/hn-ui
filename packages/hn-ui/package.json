@@ -36,6 +36,9 @@
     "last 2 version",
     "> 2%"
   ],
+  "dependencies": {
+    "vue-fragment": "1.5.1"
+  },
   "devDependencies": {
     "@hn-ui/tools": "^0.0.2",
     "babel-cli": "^6.26.0",

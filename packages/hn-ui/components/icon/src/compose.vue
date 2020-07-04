@@ -1,3 +1,4 @@
+<script type="text/jsx">
 import { Fragment } from 'vue-fragment'
 export default {
   name: 'HnIconCompose',
@@ -39,3 +40,4 @@ export default {
     return <fragment>{...elements}</fragment>
   },
 }
+</script>
