@@ -34,9 +34,4 @@ export default Vue.extend({
   color: #2c3e50;
   margin-top: 60px;
 }
-
-i {
-  font-size: 26px;
-  color: red;
-}
 </style>
