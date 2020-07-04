@@ -2,6 +2,10 @@ import Vue from 'vue'
 import { HnUIComponent } from './component'
 
 import { HnHello } from './hello'
+import { HnLayout } from './layout'
+import { HnIcon } from './icon'
+import { HnIconGroup } from './icon-group'
+import { HnIconCompose } from './icon-compose'
 
 export interface InstallationOptions {
   locale: any
@@ -26,3 +30,11 @@ export type Component = HnUIComponent
 
 /** Hello Component */
 export class Hello extends HnHello {}
+
+export class Layout extends HnLayout {}
+
+export class Icon extends HnIcon {}
+
+export class IconGroup extends HnIconGroup {}
+
+export class IconCompose extends HnIconCompose {}
