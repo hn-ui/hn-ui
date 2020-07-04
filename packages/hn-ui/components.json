@@ -1,3 +1,7 @@
 {
-  "hello": "./components/hello/index.js"
+  "hello": "./components/hello/index.js",
+  "layout": "./components/layout/index.js",
+  "icon": "./components/icon/index.js",
+  "icon-group": "./components/icon-group/index.js",
+  "icon-compose": "./components/icon-compose/index.js"
 }
