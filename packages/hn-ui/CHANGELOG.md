@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.4...@hn-ui/hn-ui@0.0.5) (2020-07-04)
+
+
+### Features
+
+* **$hn-ui:** icon, layout ([37facb4](https://github.com/hn-ui/hn-ui/commit/37facb4cbc6dea1a1190f2973b932abbf3a041c4))
+* **$hn-ui:** icon, layout types ([370c7d6](https://github.com/hn-ui/hn-ui/commit/370c7d67cf77527aac67f254b143097017a199b1))
+
+
+
+
+
 ## [0.0.4](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.3...@hn-ui/hn-ui@0.0.4) (2020-07-03)
 
 
