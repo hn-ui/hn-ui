@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.6](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.5...@hn-ui/hn-ui@0.0.6) (2020-07-04)
+
+
+### Bug Fixes
+
+* iconInit.js ([e03e35a](https://github.com/hn-ui/hn-ui/commit/e03e35a91a440d56b15d421d6ff6f91666235a2d))
+* **$hn-ui:** hn-ui ([243af6e](https://github.com/hn-ui/hn-ui/commit/243af6e5b60acd47394e5c54c59e18a0ec90807c))
+
+
+
+
+
 ## [0.0.5](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.4...@hn-ui/hn-ui@0.0.5) (2020-07-04)
 
 
