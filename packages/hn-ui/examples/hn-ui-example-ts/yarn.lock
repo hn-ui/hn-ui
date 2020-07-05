@@ -870,10 +870,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hn-ui/hn-ui@0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@hn-ui/hn-ui/-/hn-ui-0.0.6.tgz#3fc45ff9192649526a1bafa32992991767de1b70"
-  integrity sha512-T70F2St039lWmVGn9f1X6bMrB7pBOmrgfXlxvotJczHN6pi9ruokVJWOXJXVg9iWbi3cn7xQqxkoPQOtzfoweQ==
+"@hn-ui/hn-ui@0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@hn-ui/hn-ui/-/hn-ui-0.0.7.tgz#b2431fb3b3d6423847cec3c43cba3d993b77a856"
+  integrity sha512-+YS80urmGePCdGOZWsijLTLeFfbw9GKYIHeuLH2E6b6tDTjeo2HmChuSO5tvThXRiHRz9DC9JsJEpU5rgGKufA==
   dependencies:
     vue-fragment "1.5.1"
 
