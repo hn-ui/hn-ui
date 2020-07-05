@@ -5,8 +5,10 @@
       <hn-toolbar>
         <template v-slot:left>
           <hn-icon-group>
-            <hn-icon name="hn-ui-icon-query" />
-            <hn-icon name="hn-ui-icon-create" />
+            <hn-icon-compose>
+              <hn-icon name="hn-ui-icon-query" />
+              <hn-icon name="hn-ui-icon-create" />
+            </hn-icon-compose>
             <hn-icon name="hn-ui-icon-edit" />
           </hn-icon-group>
         </template>
