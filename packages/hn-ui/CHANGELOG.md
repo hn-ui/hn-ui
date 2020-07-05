@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.8](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.7...@hn-ui/hn-ui@0.0.8) (2020-07-05)
+
+
+### Bug Fixes
+
+* **$hn-ui:** bug fix ([c2f21b6](https://github.com/hn-ui/hn-ui/commit/c2f21b6627f26469a388b7334cd7ae7069586d05))
+* **$hn-ui:** icon-compose ([529ca65](https://github.com/hn-ui/hn-ui/commit/529ca65e4026551162f122ebf3a314c468639fb9))
+
+
+### Features
+
+* **$examples:** toolbar ([46adeb7](https://github.com/hn-ui/hn-ui/commit/46adeb7d179a58fa6ae001d999999ee12f0ab92a))
+* **$hn-ui:** icon-compose ([5fd8127](https://github.com/hn-ui/hn-ui/commit/5fd8127edaf946f355391e2c817a0b4b1e9a13e6))
+
+
+
+
+
 ## [0.0.7](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.6...@hn-ui/hn-ui@0.0.7) (2020-07-05)
 
 
