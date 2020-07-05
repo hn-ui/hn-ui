@@ -4,9 +4,10 @@ import Hello from '../components/hello/index.js'
 import Layout from '../components/layout/index.js'
 import Icon from '../components/icon/index.js'
 import IconGroup from '../components/icon-group/index.js'
+import IconCompose from '../components/icon-compose/index.js'
 import Toolbar from '../components/toolbar/index.js'
 
-const components = [Hello, Layout, Icon, IconGroup, Toolbar]
+const components = [Hello, Layout, Icon, IconGroup, IconCompose, Toolbar]
 
 const install = function(Vue, opts = {}) {
   components.forEach(component => {
@@ -30,5 +31,6 @@ export default {
   Layout,
   Icon,
   IconGroup,
+  IconCompose,
   Toolbar,
 }

@@ -5,6 +5,7 @@ import { HnHello } from './hello'
 import { HnLayout } from './layout'
 import { HnIcon } from './icon'
 import { HnIconGroup } from './icon-group'
+import { HnIconCompose } from './icon-compose'
 import { HnToolbar } from './toolbar'
 
 export interface InstallationOptions {
@@ -36,5 +37,7 @@ export class Layout extends HnLayout {}
 export class Icon extends HnIcon {}
 
 export class IconGroup extends HnIconGroup {}
+
+export class IconCompose extends HnIconCompose {}
 
 export class Toolbar extends HnToolbar {}
