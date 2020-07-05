@@ -2,5 +2,6 @@
   "hello": "./components/hello/index.js",
   "layout": "./components/layout/index.js",
   "icon": "./components/icon/index.js",
-  "icon-group": "./components/icon-group/index.js"
+  "icon-group": "./components/icon-group/index.js",
+  "toolbar": "./components/toolbar/index.js"
 }

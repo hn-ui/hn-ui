@@ -5,6 +5,7 @@ import { HnHello } from './hello'
 import { HnLayout } from './layout'
 import { HnIcon } from './icon'
 import { HnIconGroup } from './icon-group'
+import { HnToolbar } from './toolbar'
 
 export interface InstallationOptions {
   locale: any
@@ -12,7 +13,7 @@ export interface InstallationOptions {
   size: string
 }
 
-/** The version of element-ui */
+/** The version of hn-ui */
 export const version: string
 
 /**
@@ -35,3 +36,5 @@ export class Layout extends HnLayout {}
 export class Icon extends HnIcon {}
 
 export class IconGroup extends HnIconGroup {}
+
+export class Toolbar extends HnToolbar {}
