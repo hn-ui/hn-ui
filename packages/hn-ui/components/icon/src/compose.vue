@@ -19,7 +19,7 @@ export default {
   },
   render() {
     const elements = this.getElements()
-    if (!elements) return <fragment />
+    if (!elements) return null
     if (elements.length === 2) {
       const parentElement = elements[0]
       const childElement = elements[1]
@@ -36,7 +36,7 @@ export default {
       )
     }
 
-    return <fragment>{...elements}</fragment>
+    return <fragment>{elements}</fragment>
   },
 }
 </script>
