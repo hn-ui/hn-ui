@@ -41,7 +41,7 @@ module.exports = ctx => ({
         nav: require('./nav/en'),
         sidebar: {
           '/api/': getApiSidebar(),
-          '/guide/': getGuideSidebar('Guide', 'Advanced'),
+          '/guide/': getGuideSidebar('Guide', 'Components'),
           '/plugin/': getPluginSidebar('Plugin', 'Introduction', 'Official Plugins'),
         },
       },
@@ -54,7 +54,7 @@ module.exports = ctx => ({
         nav: require('./nav/zh'),
         sidebar: {
           '/zh/api/': getApiSidebar(),
-          '/zh/guide/': getGuideSidebar('指南', '深入'),
+          '/zh/guide/': getGuideSidebar('指南', '组件'),
           '/zh/plugin/': getPluginSidebar('插件', '介绍', '官方插件'),
         },
       },
@@ -115,7 +115,7 @@ function getGuideSidebar(groupA, groupB) {
     {
       title: groupB,
       collapsable: false,
-      children: ['frontmatter', 'permalinks', 'markdown-slot', 'global-computed'],
+      children: ['layout', 'toolbar', 'icon', 'icon-group', 'icon-compose'],
     },
   ]
 }
