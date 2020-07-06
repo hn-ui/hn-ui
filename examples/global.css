@@ -4,10 +4,23 @@ html, body {
 }
 
 body {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 0 30px;
+}
+
+body.dark {
+  background-color: black;
+  color: #c2ccd0;
+}
+
+.btn {
+  align-self: flex-end;
+  position: absolute;
+  top: 20px;
+  right: 20px;
 }
 
 ul {
