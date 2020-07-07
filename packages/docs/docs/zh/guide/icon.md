@@ -22,4 +22,7 @@
 
 ## Demo
 
-/src/views/samples/toolbarDemo.vue
+<iframe height="265" style="width: 100%;" scrolling="no" title="hn icon demo" src="https://codepen.io/upcwangying/embed/GRoxmEG?height=265&theme-id=light&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/upcwangying/pen/GRoxmEG'>hn icon demo</a> by Ying Wang
+  (<a href='https://codepen.io/upcwangying'>@upcwangying</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>

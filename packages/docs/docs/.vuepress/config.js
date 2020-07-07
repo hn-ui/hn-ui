@@ -115,7 +115,7 @@ function getGuideSidebar(groupA, groupB) {
     {
       title: groupB,
       collapsable: false,
-      children: ['layout', 'toolbar', 'icon', 'icon-group', 'icon-compose'],
+      children: ['layout', 'toolbar', 'toolbar-panel', 'icon', 'icon-group', 'icon-compose'],
     },
   ]
 }

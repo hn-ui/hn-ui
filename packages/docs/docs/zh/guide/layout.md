@@ -19,4 +19,7 @@
 
 ## Demo
 
-/src/views/samples/toolbarDemo.vue
+<iframe height="265" style="width: 100%;" scrolling="no" title="hn ui demo" src="https://codepen.io/upcwangying/embed/WNrMKXR?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/upcwangying/pen/WNrMKXR'>hn ui demo</a> by Ying Wang
+  (<a href='https://codepen.io/upcwangying'>@upcwangying</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
