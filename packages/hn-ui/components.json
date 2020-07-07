@@ -4,5 +4,6 @@
   "icon": "./components/icon/index.js",
   "icon-group": "./components/icon-group/index.js",
   "icon-compose": "./components/icon-compose/index.js",
-  "toolbar": "./components/toolbar/index.js"
+  "toolbar": "./components/toolbar/index.js",
+  "toolbar-panel": "./components/toolbar-panel/index.js"
 }

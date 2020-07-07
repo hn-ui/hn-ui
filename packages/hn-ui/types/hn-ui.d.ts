@@ -7,6 +7,7 @@ import { HnIcon } from './icon'
 import { HnIconGroup } from './icon-group'
 import { HnIconCompose } from './icon-compose'
 import { HnToolbar } from './toolbar'
+import { HnToolbarPanel } from './toolbar-panel'
 
 export interface InstallationOptions {
   locale: any
@@ -41,3 +42,5 @@ export class IconGroup extends HnIconGroup {}
 export class IconCompose extends HnIconCompose {}
 
 export class Toolbar extends HnToolbar {}
+
+export class ToolbarPanel extends HnToolbarPanel {}
