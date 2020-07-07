@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.9](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.8...@hn-ui/hn-ui@0.0.9) (2020-07-07)
+
+
+### Features
+
+* **$examples:** icon-compose ([24dfe6a](https://github.com/hn-ui/hn-ui/commit/24dfe6a4948fb821ad8c10dd65fc94debd21033f))
+* **$hn-ui:** toolbar panel ([f4d6873](https://github.com/hn-ui/hn-ui/commit/f4d6873fa1260d7867c93bd6f389b1eeb84cb2bc))
+
+
+
+
+
+
 ## [0.0.8](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.7...@hn-ui/hn-ui@0.0.8) (2020-07-05)
 
 
