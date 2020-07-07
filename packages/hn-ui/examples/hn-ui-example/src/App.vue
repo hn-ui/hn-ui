@@ -21,6 +21,14 @@
           </hn-icon-group>
         </template>
       </hn-toolbar>
+      <hn-toolbar-panel>
+        <template v-slot:condition>
+          <div>Condition</div>
+        </template>
+        <template v-slot:btn>
+          <div>Button</div>
+        </template>
+      </hn-toolbar-panel>
     </hn-layout>
   </div>
 </template>
