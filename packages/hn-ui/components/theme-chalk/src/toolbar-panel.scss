@@ -3,7 +3,7 @@
 
 @include b(toolbar-panel) {
   display: flex;
-  width: 100%;
+  width: auto;
   justify-content: space-between;
   padding-top: 2px;
   padding-bottom: 5px;
@@ -14,7 +14,6 @@
   }
   @include e(btn) {
     height: 32px;
-    padding-left: 34px;
-    display: none;
+    margin-left: 34px;
   }
 }
