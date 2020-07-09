@@ -1,0 +1,35 @@
+
+$--font-path: 'fonts' !default;
+
+/* 默认主题配色：*/
+$--hn-theme-color: #409eff !default; /* 主题颜色 */
+$--hn-success-color: #67c23a !default; /* 成功颜色 */
+$--hn-warning-color: #e6a23c !default; /* 警告颜色 */
+$--hn-error-color: #f56c6c !default; /* 危险颜色 */
+$--hn-info-color: #909399 !default;  /* 信息颜色 */
+
+/* 字体颜色 */
+$--hn-primary-font-color: #303133 !default; /* 主要文字颜色 */
+$--hn-normal-font-color: #606266 !default;  /* 常规文字颜色 */
+$--hn-secondary-font-color: $--hn-info-color !default;  /* 次要文字颜色 */
+$--hn-unimportant-font-color: #c0c4cc !default; /* 站位文字颜色 */
+
+/* 边框颜色 */
+$--hn-border-color1: #dcdfe6 !default; /* 一级边框 */
+$--hn-border-color2: #e4e7ed !default; /* 二级边框 */
+$--hn-border-color3: #ebeef5 !default; /* 三级边框 */
+$--hn-border-color4: #f2f6fc !default; /* 四级边框 */
+
+/* 背景颜色 */
+$--hn-black-background-color: #000000 !default; /* 基础黑色 */
+$--hn-white-background-color: #ffffff !default; /* 基础白色 */
+$--hn-normal-background-color: #f5f7fa !default; /* 基础背景色 */
+
+/* 文字规范 */
+$--hn-font-size-big: 14px !default; /* 大号字体 */
+$--hn-font-size-normal: 12px !default;  /* 常规字体 */
+$--hn-font-size-small: 10px !default; /* 小号字体 */
+$--hn-font-size-smaller: 8px !default;  /* mini号字体 */
+
+/* 阴影效果 */
+$--hn-box-shadow-color: #dddddd !default; /* 阴影颜色 */

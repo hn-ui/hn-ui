@@ -18,14 +18,14 @@ const lintCss = () => done => {
 }
 
 const lintTheme = () => done => {
-  function copy() {
-    fse.copySync(
-      getProjectPath('components', 'theme-chalk', 'lib'),
-      getProjectPath('lib', 'theme-chalk'),
-    )
-    done(0)
-  }
-  runCmd('gulp', ['build', '--gulpfile', 'components/theme-chalk/gulpfile.js'], copy)
+  // function copy() {
+  //   fse.copySync(
+  //     getProjectPath('components', 'theme-chalk', 'lib'),
+  //     getProjectPath('lib', 'theme-chalk'),
+  //   )
+  //   done(0)
+  // }
+  runCmd('gulp', ['build', '--gulpfile', 'gulpfile.js'], done)
 }
 
 gulp.task('theme', gulp.series(lintCss(), lintTheme()))

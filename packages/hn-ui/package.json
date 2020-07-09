@@ -22,10 +22,9 @@
   "style": "lib/theme-chalk/index.css",
   "scripts": {
     "build:file": "hn-ui-tools build file",
-    "build:theme": "hn-ui-tools build theme",
     "build:utils": "cross-env BABEL_ENV=utils babel src --out-dir lib --ignore src/index.js",
     "clean": "hn-ui-tools run clean",
-    "dist": "npm run clean && npm run build:file && hn-ui-tools run dist && npm run build:utils && npm run build:theme && eslint --fix src/index.js",
+    "dist": "npm run clean && npm run build:file && hn-ui-tools run dist && npm run build:utils && eslint --fix src/index.js",
     "examples:build": "cd examples/hn-ui-example && npm run build && cd .. && cd hn-ui-example-ts && npm run build",
     "examples:install": "cd examples/hn-ui-example && yarn install && cd .. && cd hn-ui-example-ts && yarn install",
     "link": "yarn link",

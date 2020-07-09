@@ -1,7 +1,7 @@
 {
   "name": "@hn-ui/theme",
   "version": "0.0.1",
-  "description": "A theme tool for HN UI",
+  "description": "A theme for HN UI",
   "keywords": [
     "hn-ui",
     "hn",
@@ -16,9 +16,22 @@
     "directory": "packages/@hn-ui/theme"
   },
   "license": "MIT",
-  "style": "index.css",
+  "files": [
+    "lib",
+    "build",
+    "src",
+    "CHANGELOG.md",
+    "gulpfile.js",
+    "README.md",
+    "package.json"
+  ],
+  "style": "lib/index.css",
   "scripts": {
+    "build:theme": "hn-ui-tools build theme",
     "test": "echo \"Info: test finished\" && exit 0"
+  },
+  "devDependencies": {
+    "@hn-ui/tools": "^0.0.3"
   },
   "engines": {
     "node": ">=8.9"
