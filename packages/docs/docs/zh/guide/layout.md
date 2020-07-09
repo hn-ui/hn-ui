@@ -10,14 +10,14 @@
         
         3. 组件下边框为“1px solid #E4E7ED”，默认不启用，可通过参数启用；
 
-## Attributes
+## 属性
 
 | 参数          | 说明               | 类型    | 可选值      | 默认值 |
 | ------------- | ------------------ | ------- | ----------- | ------ |
 | margin        | 启用组件上/下边距  | array   | top, bottom | []     |
 | border-bottom | 是否启用组件下边框 | boolean | -           | false  |
 
-## Demo
+## 示例
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="hn ui demo" src="https://codepen.io/upcwangying/embed/WNrMKXR?height=265&theme-id=dark&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/upcwangying/pen/WNrMKXR'>hn ui demo</a> by Ying Wang

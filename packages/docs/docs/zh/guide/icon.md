@@ -11,7 +11,7 @@
         3. 可通过参数定义显示的具体图标；
 
 
-## Attributes
+## 属性
 
 | 参数      | 说明           | 类型    | 可选值        | 默认值 | 必填项 |
 | --------- | -------------- | ------- | ------------- | ------ | ------ |
@@ -20,7 +20,7 @@
 | name      | 字体图标名字   | string  | -             | -      | 是     |
 | disabled  | 是否禁用       | boolean | -             | false  | 否     |
 
-## Demo
+## 示例
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="hn icon demo" src="https://codepen.io/upcwangying/embed/GRoxmEG?height=265&theme-id=light&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/upcwangying/pen/GRoxmEG'>hn icon demo</a> by Ying Wang

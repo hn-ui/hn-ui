@@ -10,7 +10,7 @@
         
         3. condition与btn之间间隔34px；
 
-## Demo
+## 示例
 
 <iframe height="265" style="width: 100%;" scrolling="no" title="hn toolbar panel demo" src="https://codepen.io/upcwangying/embed/KKVommj?height=265&theme-id=light&default-tab=html,result" frameborder="no" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/upcwangying/pen/KKVommj'>hn toolbar panel demo</a> by Ying Wang
