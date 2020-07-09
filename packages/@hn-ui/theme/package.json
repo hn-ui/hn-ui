@@ -23,10 +23,12 @@
     "CHANGELOG.md",
     "gulpfile.js",
     "README.md",
+    "icon.json",
     "package.json"
   ],
   "style": "lib/index.css",
   "scripts": {
+    "build:icon": "hn-ui-tools build icon",
     "build:theme": "hn-ui-tools build theme",
     "test": "echo \"Info: test finished\" && exit 0"
   },

@@ -4,14 +4,16 @@ const fse = require('fs-extra')
 const runCmd = require('../runCmd')
 
 const lintIcon = () => done => {
-  runCmd('node', ['build/bin/iconInit.js'], done)
+  runCmd('node', ['build/bin/icon-init.js'], done)
 }
 
 const lintEntry = () => done => {
   runCmd('node', ['build/bin/build-entry.js'], done)
 }
 
-gulp.task('file', gulp.series(lintIcon(), lintEntry()))
+gulp.task('icon', gulp.series(lintIcon()))
+
+gulp.task('file', gulp.series(lintEntry()))
 
 const lintCss = () => done => {
   runCmd('node', ['build/bin/gen-cssfile.js'], done)
