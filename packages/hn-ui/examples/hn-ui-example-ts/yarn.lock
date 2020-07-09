@@ -870,12 +870,17 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hn-ui/hn-ui@0.0.10":
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/@hn-ui/hn-ui/-/hn-ui-0.0.10.tgz#5cd44ac9c0f612ea5a393d8689d0180355878fa7"
-  integrity sha512-LglGX1WCzIIXzS2kwJ57+yHidcVfASs+0V/zHCR04v44dcEn9hI4ryJ66SRZQXyuMQeXUdAF50pGRT4k4zVvhA==
+"@hn-ui/hn-ui@0.0.12":
+  version "0.0.12"
+  resolved "https://registry.yarnpkg.com/@hn-ui/hn-ui/-/hn-ui-0.0.12.tgz#3b1d057610f441034cfa9819beac64b451d154dc"
+  integrity sha512-JdcyE+yYKaA1/SHrdRbfpIij2+GZ7EC3Mg3eo5ylHsyuQDuIYKblu1k2/keseNrfHZzUdzAMU9izx91Snc5QnQ==
   dependencies:
     vue-fragment "1.5.1"
+
+"@hn-ui/theme@0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@hn-ui/theme/-/theme-0.0.3.tgz#0a04e420b9d959ca4df8e80d974a789e404c7909"
+  integrity sha512-PdR393UCaQQ6B6hB060hd//IzAyr+zISAlD4TSZ8wXBcanbhykgtIlMcSJ2rvykBpQsz6uQLpKAGaR16Z12eSw==
 
 "@intervolga/optimize-cssnano-plugin@^1.0.5":
   version "1.0.6"
