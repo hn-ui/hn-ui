@@ -1,6 +1,6 @@
 {
   "name": "@hn-ui/theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A theme for HN UI",
   "keywords": [
     "hn-ui",
@@ -33,7 +33,7 @@
     "test": "echo \"Info: test finished\" && exit 0"
   },
   "devDependencies": {
-    "@hn-ui/tools": "^0.0.4"
+    "@hn-ui/tools": "^0.0.5"
   },
   "engines": {
     "node": ">=8.9"

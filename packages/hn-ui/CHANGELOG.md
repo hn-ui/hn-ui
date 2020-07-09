@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.12](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.11...@hn-ui/hn-ui@0.0.12) (2020-07-09)
+
+
+### Bug Fixes
+
+* **$theme:** theme ([d3e7ab7](https://github.com/hn-ui/hn-ui/commit/d3e7ab743c1cbe4c01efdcece2ba3f7dacfeffb0))
+
+
+
+
+
 ## [0.0.11](https://github.com/hn-ui/hn-ui/compare/@hn-ui/hn-ui@0.0.10...@hn-ui/hn-ui@0.0.11) (2020-07-09)
 
 
