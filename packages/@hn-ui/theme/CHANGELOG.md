@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.5](https://github.com/hn-ui/hn-ui/compare/@hn-ui/theme@0.0.4...@hn-ui/theme@0.0.5) (2020-07-10)
+
+
+### Bug Fixes
+
+* **$icons:** icons ([cb01732](https://github.com/hn-ui/hn-ui/commit/cb017320da72720662b555d852fd11d8df11713e))
+
+
+
+
+
 ## [0.0.4](https://github.com/hn-ui/hn-ui/compare/@hn-ui/theme@0.0.3...@hn-ui/theme@0.0.4) (2020-07-10)
 
 
