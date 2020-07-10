@@ -11,10 +11,6 @@ const lintEntry = () => done => {
   runCmd('node', ['build/bin/build-entry.js'], done)
 }
 
-gulp.task('icon', gulp.series(lintIcon()))
-
-gulp.task('file', gulp.series(lintEntry()))
-
 const lintCss = () => done => {
   runCmd('node', ['build/bin/gen-cssfile.js'], done)
 }
@@ -29,6 +25,10 @@ const lintTheme = () => done => {
   // }
   runCmd('gulp', ['build', '--gulpfile', 'gulpfile.js'], done)
 }
+
+gulp.task('icon', gulp.series(lintIcon(), lintTheme()))
+
+gulp.task('file', gulp.series(lintEntry()))
 
 gulp.task('theme', gulp.series(lintCss(), lintTheme()))
 

@@ -10,7 +10,7 @@
     "bootstrap": "lerna bootstrap",
     "build:docs": "yarn workspace docs build",
     "build:file": "yarn workspace @hn-ui/hn-ui build:file",
-    "build:icon": "yarn workspace @hn-ui/theme build:icon",
+    "build:icon": "yarn workspace @hn-ui/icons build:icon",
     "build:theme": "yarn workspace @hn-ui/theme build:theme",
     "build:utils": "yarn workspace @hn-ui/hn-ui build:utils",
     "clean": "yarn workspace @hn-ui/hn-ui clean",

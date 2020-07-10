@@ -1,34 +1,24 @@
 {
-  "name": "@hn-ui/theme",
-  "version": "0.0.3",
-  "description": "A theme for HN UI",
+  "name": "@hn-ui/icons",
+  "version": "0.0.1",
+  "description": "icons for HN UI",
   "keywords": [
     "hn-ui",
     "hn",
     "ui",
-    "theme"
+    "icons"
   ],
   "homepage": "https://hn-ui.com",
   "bugs": "https://github.com/hn-ui/hn-ui/issues",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hn-ui/hn-ui.git",
-    "directory": "packages/@hn-ui/theme"
+    "directory": "packages/@hn-ui/icons"
   },
   "license": "MIT",
-  "files": [
-    "lib",
-    "build",
-    "src",
-    "CHANGELOG.md",
-    "gulpfile.js",
-    "README.md",
-    "icon.json",
-    "package.json"
-  ],
   "style": "lib/index.css",
   "scripts": {
-    "build:theme": "hn-ui-tools build theme",
+    "build:icon": "hn-ui-tools build icon",
     "test": "echo \"Info: test finished\" && exit 0"
   },
   "devDependencies": {

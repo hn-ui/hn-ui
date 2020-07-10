@@ -3,7 +3,7 @@
 const postcss = require('postcss')
 const fs = require('fs')
 const path = require('path')
-const fontFile = fs.readFileSync(path.resolve(__dirname, '../../src/icons.scss'), 'utf8')
+const fontFile = fs.readFileSync(path.resolve(__dirname, '../../src/index.scss'), 'utf8')
 const nodes = postcss.parse(fontFile).nodes
 const classList = []
 
