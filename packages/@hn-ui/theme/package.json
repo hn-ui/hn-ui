@@ -23,7 +23,6 @@
     "CHANGELOG.md",
     "gulpfile.js",
     "README.md",
-    "icon.json",
     "package.json"
   ],
   "style": "lib/index.css",

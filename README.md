@@ -31,6 +31,9 @@ These are the available packages in this repository.
 | [@hn-ui/vuepress-theme-hn-ui](./packages/@hn-ui/vuepress-theme-hn-ui) | [![Npm](https://img.shields.io/npm/v/@hn-ui/vuepress-theme-hn-ui)](https://www.npmjs.com/package/@hn-ui/vuepress-theme-hn-ui) |
 | [@hn-ui/shared-utils](./packages/@hn-ui/shared-utils) | [![Npm](https://img.shields.io/npm/v/@hn-ui/shared-utils)](https://www.npmjs.com/package/@hn-ui/shared-utils) |
 | [@hn-ui/tools](./packages/@hn-ui/tools) | [![Npm](https://img.shields.io/npm/v/@hn-ui/tools)](https://www.npmjs.com/package/@hn-ui/tools) |
+| [@hn-ui/theme](./packages/@hn-ui/theme) | [![Npm](https://img.shields.io/npm/v/@hn-ui/theme)](https://www.npmjs.com/package/@hn-ui/theme) |
+| [@hn-ui/dark-theme](./packages/@hn-ui/dark-theme) | [![Npm](https://img.shields.io/npm/v/@hn-ui/dark-theme)](https://www.npmjs.com/package/@hn-ui/dark-theme) |
+| [@hn-ui/icons](./packages/@hn-ui/icons) | [![Npm](https://img.shields.io/npm/v/@hn-ui/icons)](https://www.npmjs.com/package/@hn-ui/icons) |
 | [hn-ui](./packages/hn-ui) | [![Npm](https://img.shields.io/npm/v/@hn-ui/hn-ui)](https://www.npmjs.com/package/@hn-ui/hn-ui) |
 
 ## Contributors

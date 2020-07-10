@@ -16,6 +16,16 @@
     "directory": "packages/@hn-ui/icons"
   },
   "license": "MIT",
+  "files": [
+    "lib",
+    "build",
+    "src",
+    "CHANGELOG.md",
+    "gulpfile.js",
+    "README.md",
+    "icon.json",
+    "package.json"
+  ],
   "style": "lib/index.css",
   "scripts": {
     "build:icon": "hn-ui-tools build icon",
