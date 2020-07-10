@@ -1,6 +1,6 @@
 {
   "name": "@hn-ui/icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "icons for HN UI",
   "keywords": [
     "hn-ui",
@@ -22,7 +22,7 @@
     "test": "echo \"Info: test finished\" && exit 0"
   },
   "devDependencies": {
-    "@hn-ui/tools": "^0.0.5"
+    "@hn-ui/tools": "^0.0.6"
   },
   "engines": {
     "node": ">=8.9"
