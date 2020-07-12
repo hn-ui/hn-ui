@@ -1,0 +1,35 @@
+{
+  "name": "hn-ui-example-ts",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "vue-cli-service build",
+    "serve": "vue-cli-service serve",
+    "test:unit": "vue-cli-service test:unit"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "jest": {
+    "preset": "@vue/cli-plugin-unit-jest/presets/typescript"
+  },
+  "dependencies": {
+    "@hn-ui/hn-ui": "0.0.13",
+    "@hn-ui/icons": "0.0.3",
+    "@hn-ui/theme": "0.0.5",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.19",
+    "@vue/cli-plugin-typescript": "^4.4.0",
+    "@vue/cli-plugin-unit-jest": "^4.4.0",
+    "@vue/cli-service": "^4.4.0",
+    "@vue/test-utils": "^1.0.3",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
+    "typescript": "~3.5.3",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

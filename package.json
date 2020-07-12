@@ -4,11 +4,13 @@
   "workspaces": [
     "packages/@hn-ui/*",
     "packages/hn-ui",
-    "packages/docs"
+    "packages/docs",
+    "packages/examples/*"
   ],
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build:docs": "yarn workspace docs build",
+    "build:examples": "yarn workspace hn-ui-example build && yarn workspace hn-ui-example-ts build",
     "build:file": "yarn workspace @hn-ui/hn-ui build:file",
     "build:icon": "yarn workspace @hn-ui/icons build:icon",
     "build:theme": "yarn workspace @hn-ui/theme build:theme",
@@ -17,9 +19,7 @@
     "codecov": "codecov",
     "dev:docs": "yarn workspace docs dev",
     "dist": "yarn workspace @hn-ui/hn-ui dist && yarn build:icon && yarn build:theme",
-    "examples:build": "yarn workspace @hn-ui/hn-ui examples:build",
-    "examples:dist": "yarn examples:install && yarn examples:build && node ./scripts/examples.js",
-    "examples:install": "yarn workspace @hn-ui/hn-ui examples:install",
+    "dist:examples": "yarn build:examples && node ./scripts/examples.js",
     "hn-ui:link": "yarn workspace @hn-ui/hn-ui link",
     "hn-ui:unlink": "yarn workspace @hn-ui/hn-ui unlink",
     "precommit": "lint-staged",
@@ -38,7 +38,7 @@
       "sort-package-json",
       "git add"
     ],
-    "packages/**/!(lib|examples)/**/*.{js,jsx,vue,ts,tsx}": [
+    "packages/!(lib|examples)/**/*.{js,jsx,vue,ts,tsx}": [
       "prettier --write",
       "git add"
     ]
@@ -65,7 +65,7 @@
     "prettier": "1.19.1",
     "sort-package-json": "1.36.0",
     "ts-jest": "24.3.0",
-    "typescript": "3.7.4",
+    "typescript": "~3.5.3",
     "vue-eslint-parser": "7.0.0",
     "vue-jest": "3.0.5"
   }

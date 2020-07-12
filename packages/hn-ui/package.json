@@ -25,8 +25,6 @@
     "build:utils": "cross-env BABEL_ENV=utils babel src --out-dir lib --ignore src/index.js",
     "clean": "hn-ui-tools run clean",
     "dist": "npm run clean && npm run build:file && hn-ui-tools run dist && npm run build:utils && eslint --fix src/index.js",
-    "examples:build": "cd examples/hn-ui-example && npm run build && cd .. && cd hn-ui-example-ts && npm run build",
-    "examples:install": "cd examples/hn-ui-example && yarn install && cd .. && cd hn-ui-example-ts && yarn install",
     "link": "yarn link",
     "test": "echo \"Info: test finished\" && exit 0",
     "unlink": "yarn unlink"

@@ -4,8 +4,7 @@
 [![Codecov](https://img.shields.io/codecov/c/gh/hn-ui/hn-ui)](https://codecov.io/gh/hn-ui/hn-ui)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhn-ui.com)
 ![Travis (.org)](https://img.shields.io/travis/hn-ui/hn-ui)
-![GitHub](https://img.shields.io/github/license/hn-ui/hn-ui)
-![GitHub contributors](https://img.shields.io/github/contributors/hn-ui/hn-ui)
+[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lerna.js.org/)
 
 > A Component Library for Vue.js.
 

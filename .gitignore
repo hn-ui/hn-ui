@@ -74,5 +74,5 @@ package-lock.json
 
 coverage
 
-examples/hn-ui-example*/*
+examples/vue-hn-ui-example*/*
 !examples/hn-ui-example*/.gitkeep
