@@ -9,8 +9,9 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "@hn-ui/hn-ui": "0.0.12",
-    "@hn-ui/theme": "0.0.3",
+    "@hn-ui/hn-ui": "0.0.13",
+    "@hn-ui/icons": "0.0.3",
+    "@hn-ui/theme": "0.0.5",
     "core-js": "^3.4.4",
     "vue": "^2.6.10"
   },

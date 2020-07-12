@@ -870,17 +870,22 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@hn-ui/hn-ui@0.0.12":
-  version "0.0.12"
-  resolved "https://registry.yarnpkg.com/@hn-ui/hn-ui/-/hn-ui-0.0.12.tgz#3b1d057610f441034cfa9819beac64b451d154dc"
-  integrity sha512-JdcyE+yYKaA1/SHrdRbfpIij2+GZ7EC3Mg3eo5ylHsyuQDuIYKblu1k2/keseNrfHZzUdzAMU9izx91Snc5QnQ==
+"@hn-ui/hn-ui@0.0.13":
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/@hn-ui/hn-ui/-/hn-ui-0.0.13.tgz#69148df0a2ed0461cdd1ea00f07e2dca9799aa90"
+  integrity sha512-VFQNooYbTDmBae1gfeLZyDrcfY5X/1Wlg+NDj/D/0A+yhHzXHCGSeF4EtM9vB4dDgPpTmPcgnixTnpNjk5Z9MQ==
   dependencies:
     vue-fragment "1.5.1"
 
-"@hn-ui/theme@0.0.3":
+"@hn-ui/icons@0.0.3":
   version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@hn-ui/theme/-/theme-0.0.3.tgz#0a04e420b9d959ca4df8e80d974a789e404c7909"
-  integrity sha512-PdR393UCaQQ6B6hB060hd//IzAyr+zISAlD4TSZ8wXBcanbhykgtIlMcSJ2rvykBpQsz6uQLpKAGaR16Z12eSw==
+  resolved "https://registry.yarnpkg.com/@hn-ui/icons/-/icons-0.0.3.tgz#5b708ef2fab185f2cbb671ec92b5089f30f16dd8"
+  integrity sha512-COcFuM+IEBiaxV6cAXnoiy2VlU0uAar4OyEueSnhs1RwezhyawfRMGpiLDzJpjEgMFSfGkqaB5KzdSzPkRmf6Q==
+
+"@hn-ui/theme@0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@hn-ui/theme/-/theme-0.0.5.tgz#68c510feffe22d1a6fb3a572ad27ae9dc1a1614d"
+  integrity sha512-C7Xe1ZR2ng2JN26wNMgdYvf+YPJFsviT3Iy8uGrrvT17iS/qfjT1fD980o2csqYoSFWiZVPz4DTc/yP6kjlnfw==
 
 "@intervolga/optimize-cssnano-plugin@^1.0.5":
   version "1.0.6"
