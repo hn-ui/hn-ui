@@ -1,6 +1,6 @@
 {
   "name": "hn-ui-example",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "vue-cli-service build",
@@ -17,9 +17,9 @@
     "preset": "@vue/cli-plugin-unit-jest"
   },
   "dependencies": {
-    "@hn-ui/hn-ui": "0.0.13",
-    "@hn-ui/icons": "0.0.3",
-    "@hn-ui/theme": "0.0.5",
+    "@hn-ui/hn-ui": "^1.0.0",
+    "@hn-ui/icons": "^1.0.0",
+    "@hn-ui/theme": "^1.0.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

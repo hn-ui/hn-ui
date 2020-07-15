@@ -1,6 +1,6 @@
 {
   "name": "@hn-ui/dark-theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A dark theme tool for HN UI",
   "keywords": [
     "hn-ui",
