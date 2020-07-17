@@ -25,6 +25,7 @@
     "README.md",
     "package.json"
   ],
+  "main": "lib/index.css",
   "style": "lib/index.css",
   "scripts": {
     "build:theme": "hn-ui-tools build theme",

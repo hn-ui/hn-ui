@@ -17,6 +17,7 @@
     "directory": "packages/@hn-ui/dark-theme"
   },
   "license": "MIT",
+  "main": "index.css",
   "style": "index.css",
   "scripts": {
     "test": "echo \"Info: test finished\" && exit 0"

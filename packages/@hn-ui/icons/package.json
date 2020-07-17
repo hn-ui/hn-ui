@@ -26,6 +26,7 @@
     "icon.json",
     "package.json"
   ],
+  "main": "lib/index.css",
   "style": "lib/index.css",
   "scripts": {
     "build:icon": "hn-ui-tools build icon",
