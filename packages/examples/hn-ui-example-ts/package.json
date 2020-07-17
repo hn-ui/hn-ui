@@ -1,6 +1,6 @@
 {
   "name": "hn-ui-example-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "build": "vue-cli-service build",
@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "@hn-ui/hn-ui": "^1.0.0",
-    "@hn-ui/icons": "^1.0.0",
-    "@hn-ui/theme": "^1.0.0",
+    "@hn-ui/icons": "^1.0.1",
+    "@hn-ui/theme": "^1.0.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
